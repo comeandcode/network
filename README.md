@@ -1,5 +1,5 @@
 # network
-some scripts for computer etwork learning
+some scripts for computer network learning
 
 ## pktanalyzer 
 ### (for analyzing .pcap network packets)
