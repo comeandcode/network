@@ -9,7 +9,7 @@ To use these filters, add arguments like -tcp, -net 123.1.2.0, -c 5, -port 80 to
 You can use multiply filters in one command.
 
 For example:
-python3 pktanalyzer.py -r packets.pcap -c 3 -tcp -host 2.2.2.2
+python3 pktanalyzer.py -r packets.pcap -c 3 -tcp -host 2.2.2.2</br>
 python3 pktanalyzer.py -r packets.pcap -tcp -udp
 python3 pktanalyzer.py -r packets.pcap -tcp -udp -net 123.21.31.0
 python3 pktanalyzer.py -r packets.pcap -port 137 -udp -port 8888
